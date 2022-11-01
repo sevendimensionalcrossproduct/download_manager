@@ -4,6 +4,7 @@ from tkinter import messagebox, filedialog
 import os
 
 dm = Tk()
+dm.iconbitmap("302472257_480x360.ico")
 url = StringVar()
 def sex():
     return False
